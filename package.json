@@ -1,0 +1,20 @@
+{
+  "name": "rateshield-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RateShield - Distributed High-Performance Rate Limiter Engine",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview",
+    "lint": "npm --prefix frontend run lint"
+  },
+  "keywords": [
+    "rate-limiter",
+    "redis",
+    "dashboard",
+    "telemetry"
+  ],
+  "author": "",
+  "license": "MIT"
+}
